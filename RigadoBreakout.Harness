@@ -1,0 +1,2 @@
+SPI Harness=CS,SCK,MOSI,MISO
+UART Harness=TX,RX,RTS,CTS
